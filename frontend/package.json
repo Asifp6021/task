@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Asif6021.github.io/task/",
+  "homepage": "https://Asif6021.github.io/task",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
