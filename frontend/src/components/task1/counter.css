@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container-main {
+  height: 500px;
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container-one {
+  border: solid 1px;
+  height: 300px;
+  width: 55%;
+  margin: 0 auto;
+  margin-top: 8%;
+  border-radius: 10px;
+  background-color: #f2f1ed;
+}
+.container-two {
+  border: solid 1px;
+  height: 200px;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 10%;
+  border-radius: 100%;
+  background-color: red;
+
+}
+
+.container-two h1, h3{
+  margin-top: 15%;
+}
+
+.btn {
+  margin-top: 50px;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 1.2em;
+  white-space: nowrap;
+  border: solid 1px;
+  background: red;
+  
+}
