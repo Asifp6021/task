@@ -1,4 +1,5 @@
 import React from 'react';
+import React from 'react';
 
 import Conter from './components/task1/Counter';
 import Parent from './components/task2/Parent';
